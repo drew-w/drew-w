@@ -7,6 +7,8 @@ Aside from these technical interests, I enjoy playing basketball, baseball, socc
 - 📫 How to reach me ...
 
 Please send me a message on my LinkedIn which I have linked on my profile here. 
+[I'm an inline-style link](https://www.google.com)
+
 
 <!---
 drew-w/drew-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
