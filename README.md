@@ -1,8 +1,6 @@
 Hi, I’m @drew-w!
 
-I am a Full Stack React Developer, I love coding in Javascript and I am always trying to learn new things. 
-I recently taught myself react frameworks such as Gatsby and NextJS!
-Aside from these technical interests, I enjoy playing basketball, baseball, soccer, and competing in fighting games. I am currently ranked #1 in the state of Utah for a game called Under Night In-Birth Exe:Late[cl-r]. 
+I am a Full Stack React Developer who excels in problem solving and thrives off of self improvement. I am able to efficiently write clean and effective code. Although I have experience creating endpoints querying a SQL database with Prisma, I excel at creating clean front end code and am used to working closely with UX/Graphic designers to bring their artistic vision to life. Aside from these technical interests, I enjoy playing basketball, disc golf, and competing in fighting games. 
 
 ##### 📫 How to reach me ...
 - Message me on [Twitter](https://twitter.com/bbo_drew)...
